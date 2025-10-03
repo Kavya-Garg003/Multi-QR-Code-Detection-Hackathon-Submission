@@ -1,0 +1,5 @@
+train: E:/QR_Dataset/QR_Dataset/src/datasets/qr/images/train
+val:   E:/QR_Dataset/QR_Dataset/src/datasets/qr/images/val   # if missing, copy test here
+
+nc: 1
+names: ['qr_code']

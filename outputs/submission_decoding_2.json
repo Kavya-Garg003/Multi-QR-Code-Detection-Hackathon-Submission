@@ -1,0 +1,536 @@
+[
+  {
+    "image_id": "img201.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1277,
+          1650,
+          1468,
+          1832
+        ],
+        "value": "5a0S2Y02",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img202.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2070,
+          574,
+          2334,
+          837
+        ],
+        "value": "5a0Pqh06",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img203.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1394,
+          2681,
+          1598,
+          2886
+        ],
+        "value": "5a0S6E03",
+        "type": "other"
+      },
+      {
+        "bbox": [
+          794,
+          2282,
+          1003,
+          2490
+        ],
+        "value": "5a0SHD01",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img204.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img205.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1378,
+          2283,
+          1587,
+          2483
+        ],
+        "value": "5a0SF701",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img206.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1314,
+          1676,
+          1495,
+          1854
+        ],
+        "value": "5a0SF501",
+        "type": "other"
+      },
+      {
+        "bbox": [
+          1096,
+          920,
+          1257,
+          1088
+        ],
+        "value": "5a0S0G07",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img207.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img208.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1759,
+          2057,
+          1979,
+          2275
+        ],
+        "value": "5a0QRb0M",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img209.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          727,
+          1774,
+          924,
+          1971
+        ],
+        "value": "5a0QP30V",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img210.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img211.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          784,
+          1710,
+          1032,
+          1962
+        ],
+        "value": "5a0QLB1o",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img212.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img213.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img214.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          952,
+          1217,
+          1084,
+          1345
+        ],
+        "value": "5a0SHE01",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img215.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1624,
+          1002,
+          1793,
+          1166
+        ],
+        "value": "5a0QP30V",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img216.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2053,
+          909,
+          2253,
+          1113
+        ],
+        "value": "5a0RyD0G",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img217.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img218.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img219.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img220.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1250,
+          214,
+          1368,
+          333
+        ],
+        "value": "5a0RlO0F",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img221.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          667,
+          456,
+          839,
+          622
+        ],
+        "value": "5a0S220A",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img222.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img223.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img224.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img225.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img226.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img227.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img228.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img229.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2558,
+          1559,
+          2753,
+          1755
+        ],
+        "value": "5a0SIk02",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img230.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img231.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          434,
+          1321,
+          608,
+          1483
+        ],
+        "value": "5a0SEs01",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img232.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1681,
+          2200,
+          1849,
+          2363
+        ],
+        "value": "5a0SIk02",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img233.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1913,
+          852,
+          2097,
+          1023
+        ],
+        "value": "5a0RTm08",
+        "type": "other"
+      },
+      {
+        "bbox": [
+          1497,
+          1696,
+          1685,
+          1897
+        ],
+        "value": "5a0SEn01",
+        "type": "other"
+      },
+      {
+        "bbox": [
+          1079,
+          392,
+          1222,
+          544
+        ],
+        "value": "5a0SEq01",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img234.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1999,
+          1486,
+          2164,
+          1647
+        ],
+        "value": "5a0SEr01",
+        "type": "other"
+      },
+      {
+        "bbox": [
+          1380,
+          633,
+          1553,
+          806
+        ],
+        "value": "5a0SEq01",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img235.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img236.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img237.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          934,
+          2600,
+          1095,
+          2769
+        ],
+        "value": "5a0N0R0l",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img238.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img239.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img240.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1451,
+          1616,
+          1608,
+          1775
+        ],
+        "value": "5a0Rqm02",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img241.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1022,
+          2151,
+          1234,
+          2369
+        ],
+        "value": "5a0S2r0I",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img242.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img243.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2972,
+          1231,
+          3411,
+          1671
+        ],
+        "value": "5a0PyQ0G",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img244.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img245.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img246.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img247.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          1131,
+          2443,
+          1324,
+          2640
+        ],
+        "value": "5a0SBZ0D",
+        "type": "other"
+      },
+      {
+        "bbox": [
+          2895,
+          1734,
+          3104,
+          1943
+        ],
+        "value": "5a0RPF0U",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img248.jpg",
+    "qrs": [
+      {
+        "bbox": [
+          2551,
+          705,
+          2769,
+          903
+        ],
+        "value": "5a0SJB02",
+        "type": "other"
+      },
+      {
+        "bbox": [
+          2179,
+          1645,
+          2389,
+          1854
+        ],
+        "value": "5a0SHG01",
+        "type": "other"
+      }
+    ]
+  },
+  {
+    "image_id": "img249.jpg",
+    "qrs": []
+  },
+  {
+    "image_id": "img250.jpg",
+    "qrs": []
+  }
+]
